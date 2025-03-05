@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Please consider giving this respritory a star if you feel like it.
+> Please consider following me for more like this.
 # 
 
 <h1 align="center"><strong>Minecraft Client</strong></h1>
